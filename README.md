@@ -4,7 +4,9 @@ This repository contains my completed assignments for Harvard's CS50x: Introduct
 
 At this stage of the course, I am currently focused on learning and practicing the **C programming language**, exploring fundamental computer science concepts such as algorithms, memory management, data structures, and problem-solving strategies. This repository highlights my current progress in **C**, and I will continue to update it as I move forward through the course into **Python, SQL, and Web development** topics.
 
+
 > ⚠️ *Disclaimer:* These solutions are shared for educational and portfolio purposes only. Please do not copy them directly for your own coursework. Academic honesty is essential to the CS50 experience.
+
 
 This work demonstrates a solid understaning of:
 * **Algorithmic Thinking and Design**
@@ -32,7 +34,7 @@ More problem sets will be added as they are completed.
 
 ## Future Updates
 - Additional C problem sets (Weeks 4–5)
-- Python, SQL, and Web problem sets
+- Python, SQL, and Web Development problem sets
 - Problem reflections and algorithm breakdowns
 - CS50 Final Project
 
