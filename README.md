@@ -42,16 +42,17 @@ More problem sets will be added as they are completed.
 ## How to Run
 
 ```bash
-# 1. Clone the repository to your computer
-git clone https://github.com/YOURUSERNAME/cs50x-problem-sets.git
+# 1. Clone the repository
+git clone https://github.com/deyperfect/CS50x-2025-Portfolio.git
 
 # 2. Move into the project folder
-cd cs50x-problem-sets
+cd CS50x-2025-Portfolio
 
 # 3. Navigate to the specific problem’s directory
 # Example: CASH from Week 1
 cd week1/cash      
-# cd week2/scrabble   (Scrabble)
+
+# cd week2/scrabble
 # cd week2/readability
 # cd week2/caesar
 # cd week3/plurality
