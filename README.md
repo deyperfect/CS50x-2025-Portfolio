@@ -42,10 +42,23 @@ More problem sets will be added as they are completed.
 ## How to Run
 
 ```bash
-git clone https://github.com/yourusername/cs50x-problem-sets.git
-cd cs50x-problem-sets/week1/cash
+# 1. Clone the repository to your computer
+git clone https://github.com/YOURUSERNAME/cs50x-problem-sets.git
+
+# 2. Move into the project folder
+cd cs50x-problem-sets
+
+# 3. Navigate to the specific problem’s directory
+# Example: CASH from Week 1
+cd week1/cash      
+# cd week2/scrabble   (Scrabble)
+# cd week2/readability
+# cd week2/caesar
+# cd week3/plurality
+
+# 4. Compile the program using make
 make cash
+# Replace 'cash' with the correct file name if running other problems
+
+# 5. Run the compiled program
 ./cash
-
-
-My technical focus now is on translating these fundamentals into practice. I am committed to creating a repository of **reusable scripts and automated tools** that enhance efficiency and quality across any workflow I manage in the future.
