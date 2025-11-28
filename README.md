@@ -18,7 +18,7 @@ This work demonstrates a solid understaning of:
 
 | Week | Problem | Language | Topics |
 |-------|----------|-----------|---------|
-| Week 1 | Cash | C | Greedy algorithm, loops, arithmetic |
+| Week 1 | Cash | C | Algorithm, loops, arithmetic |
 | Week 2 | Scrabble | C | Arrays, scoring system, character manipulation |
 | Week 2 | Readability | C | Text analysis, reading grade computation |
 | Week 2 | Caesar | C | Encryption, ASCII manipulation, command-line arguments |
@@ -27,6 +27,25 @@ This work demonstrates a solid understaning of:
 More problem sets will be added as they are completed.
 
 ---
+
+## Skills Demonstrated
+
+- Algorithmic thinking and structured problem-solving  
+- Clean and readable code with comments  
+- Debugging and logical testing  
+- Understanding of memory and data representation  
+- Compiling programs via `make`  
+- Version control with Git & GitHub  
+
+---
+
+## How to Run
+
+```bash
+git clone https://github.com/yourusername/cs50x-problem-sets.git
+cd cs50x-problem-sets/week1/cash
+make cash
+./cash
 
 
 My technical focus now is on translating these fundamentals into practice. I am committed to creating a repository of **reusable scripts and automated tools** that enhance efficiency and quality across any workflow I manage in the future.
