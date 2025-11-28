@@ -2,7 +2,10 @@
 
 This repository contains my completed assignments for Harvard's CS50x: Introduction to Computer Science (2025).
 
-As a Compliance and Quality Assurance professional, I undertook this intensive program to **build a foundational understanding of computer science principles** and apply a **programmer's logic** to workflow efficiency and investigative problem-solving.
+At this stage of the course, I am currently focused on learning and practicing the **C programming language**, exploring fundamental computer science concepts such as algorithms, memory management, data structures, and problem-solving strategies.  
+This repository highlights my current progress in **C**, and I will continue to update it as I move forward through the course into **Python, SQL, and Web development** topics.
+
+> ⚠️ *Disclaimer:* These solutions are shared for educational and portfolio purposes only. Please do not copy them directly for your own coursework. Academic honesty is essential to the CS50 experience.
 
 This work demonstrates a solid understaning of:
 * **Algorithmic Thinking and Design**
@@ -12,7 +15,7 @@ This work demonstrates a solid understaning of:
 
 ---
 
-## 📂 Completed Problem Sets (The Core Logic)
+## 📂 Completed Problem Sets
 
 ## Included Problem Sets
 
@@ -28,16 +31,11 @@ More problem sets will be added as they are completed.
 
 ---
 
-## Skills Demonstrated
-
-- Algorithmic thinking and structured problem-solving  
-- Clean and readable code with comments  
-- Debugging and logical testing  
-- Understanding of memory and data representation  
-- Compiling programs via `make`  
-- Version control with Git & GitHub  
-
----
+## Future Updates
+- Additional C problem sets (Weeks 4–5)
+- Python, SQL, and Web problem sets
+- Problem reflections and algorithm breakdowns
+- CS50 Final Project
 
 ## How to Run
 
