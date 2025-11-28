@@ -1,4 +1,4 @@
-# CS50x 2025 Problem Sets - Technical Portfolio
+# CS50x 2025 Problem Sets 
 
 This repository contains my completed assignments for Harvard's CS50x: Introduction to Computer Science (2025).
 
