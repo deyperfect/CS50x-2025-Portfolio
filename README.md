@@ -27,6 +27,7 @@ This work demonstrates a solid understaning of:
 | Week 2 | Readability | C | Text analysis, reading grade computation |
 | Week 2 | Caesar | C | Encryption, ASCII manipulation, command-line arguments |
 | Week 3 | Plurality | C | Structs, arrays, vote counting |
+| Week 3 | Runoff | C | Structs, 2D arrays, vote redistribution |
 
 More problem sets will be added as they are completed.
 
